@@ -40,11 +40,3 @@ invoke-static {}, Lcom/loadLib/libLoader;->loadLib()V
 
 ### Useful links
 <b>Cydia Substrate Documentation</b>: http://www.cydiasubstrate.com/id/264d6581-a762-4343-9605-729ef12ff0af/
-
-
-<br>
-
-### Contact
-If you've any questions, suggestions or whatever, you can contact me on Discord.<br>
-<b>My Discord</b>: Joey
-#0309
